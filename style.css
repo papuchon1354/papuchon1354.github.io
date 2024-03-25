@@ -1,5 +1,5 @@
 .azul {
-    background-color: black;
+    background-color: #8E44AD  ;
     width: 980px;
     height: 200px;
     margin: 10px;
@@ -11,18 +11,18 @@
 .blanco{
     height: 800px;
     width: 1000px;
-    background-color:rgb(45, 56, 70);
+    background-color:#D2B4DE  ;
     border-radius: 10px;
 }
 h1{
     margin-left: 50px;
-    color: brown;
+    color: black;
     font-size: 50px;
     
 }
 p {
     margin-left: 50px;
-    color: yellow;
+    color: black;
     font-size: 19px;
 }
 img {
@@ -31,12 +31,13 @@ img {
     position: absolute;
     margin-top: -700px;
     margin-left: 30px;
+    border: 10px solid #D2B4DE ;
 }
 .botoncin input{
     margin-left: 50px;
     border-radius: 10px;
-    background-color: lightslategrey;
+    background-color: lightgrey;
     width: 100px;
     height: 25px;
-   
+   border: none;
 }
